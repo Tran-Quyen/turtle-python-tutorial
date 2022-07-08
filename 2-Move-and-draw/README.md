@@ -21,4 +21,11 @@
 - undo()
 - speed()
 
+#### Practice
+
+##### 1. Draw square, retangle and triangle
+
+##### 2. Draw trapezoid, parallelogram
+
+##### 3. Draw circle, rhombus, pentagon, hexagon
 
