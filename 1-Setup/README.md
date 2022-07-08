@@ -45,7 +45,7 @@ https://www.python.org/downloads/
 [PIP](https://pip.pypa.io/en/stable/installation/)
 
 ```
-py get-pip.py
+pip install pip
 ```
 
 [PythonTurtle](https://pypi.org/project/PythonTurtle/)
