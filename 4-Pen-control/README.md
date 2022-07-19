@@ -14,3 +14,15 @@
 - pencolor()
 - fillcolor()
 
+### Filling
+
+- filling()
+- begin_fill()
+- end_fill()
+
+### More drawing control
+
+- reset()
+- clear()
+- write()
+
